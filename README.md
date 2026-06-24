@@ -1,4 +1,5 @@
-## Hi there 👋
+ui/ux designer,
+advanced knowledge of low-level programming, video-editing and motion graphics/advertisements
 
 <!--
 **fs-dbg/fs-dbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
