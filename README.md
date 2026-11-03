@@ -1,2 +1,2 @@
 ui/ux designer,
-advanced knowledge of low-level programming, video-editing and motion graphics/advertisements
+advanced low-level programmer, video-editing and motion graphics/advertisements
